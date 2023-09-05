@@ -18,7 +18,7 @@ class _NavigationState extends State<Navigation> {
         actions: [
           Icon(Icons.pin_drop_outlined)
         ],
-        backgroundColor: Colors.grey[900],
+        backgroundColor: Colors.black,
         centerTitle: true,
         title: Text(
           'Navigation',
